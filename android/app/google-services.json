@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989964438844",
+    "project_id": "israfdb-6c984",
+    "storage_bucket": "israfdb-6c984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989964438844:android:18d5a33a60f1bc22426239",
+        "android_client_info": {
+          "package_name": "ktu.sifirisraf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989964438844-svg4v15j5m1c63tpolpkbjp49llhr5cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQp_xnCcVQJopmOzKwSSygANTfcoe3m8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989964438844-svg4v15j5m1c63tpolpkbjp49llhr5cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
